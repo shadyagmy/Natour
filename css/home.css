@@ -165,7 +165,7 @@ li {
   margin-top: 10rem !important; }
 
 .header {
-  background-image: linear-gradient(to left, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(../../images/hero-small.jpg);
+  background-image: linear-gradient(to left, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(../images/hero-small.jpg);
   background-size: cover;
   background-position: top;
   height: 95vh;
